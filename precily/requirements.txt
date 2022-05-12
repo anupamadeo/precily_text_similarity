@@ -1,0 +1,6 @@
+flask
+gunicorn
+json
+numpy
+transformers
+sentence-transformers
